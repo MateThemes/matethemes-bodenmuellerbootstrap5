@@ -1,14 +1,7 @@
-## The documentation is available online here:
+## Müller Bodenbeläge with Bootstrap 5
 
-https://around.createx.studio/docs/getting-started.html
-OR
-**Offline**: inside Around/docs folder
 
-## To download Figma files which include all design mockups follow the link below:
-
-https://drive.google.com/drive/folders/187kFSLX6BG7Q0WybwjQtd2QKt49wSBkb?usp=sharing
-
-## Theme Installation Steps:
+## Theme Installation Steps (if you want to customize):
 
 1. Install Node.js and Npm (Node Package Manager)
    https://nodejs.org/en/
